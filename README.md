@@ -1,7 +1,7 @@
 # **Chatbot Agrícola para Campesinos Colombianos**
 
 
-![turbit](images\Cover.jpg)
+![AgroAmigo](images/Cover.jpg)
 
 
 Este proyecto es una aplicación de chatbot desarrollada para brindar soporte y asesoramiento a campesinos colombianos en temas relacionados con la agricultura, técnicas de cultivo y consejos financieros. La aplicación está construida en Python 3.12 y emplea varias tecnologías para ofrecer una experiencia de usuario fluida y una interacción basada en IA.
@@ -18,7 +18,7 @@ Este proyecto es una aplicación de chatbot desarrollada para brindar soporte y 
 Aquí tienes la sección de instalación para tu proyecto "Chatbot Agrícola para Campesinos Colombianos":
 
 ## **Arquitectura**
-![turbit](images\arquitectura.png)
+![AgroAmigo](images/arquitectura.png)
 
 
 ## **Instalación**
