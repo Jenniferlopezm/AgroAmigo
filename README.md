@@ -62,8 +62,8 @@ Para configurar el chatbot, sigue estos pasos:
    ```
 
 6. **Guías para Obtener las APIs**  
-   - [Cómo obtener la API de Groq](https://ejemplo.com/guia-groq)  
-   - [Cómo obtener la API de Tavily](https://ejemplo.com/guia-tavily)
+   - [Cómo obtener la API de Groq](https://console.groq.com/keys)  
+   - [Cómo obtener la API de Tavily](https://docs.tavily.com/docs/gpt-researcher/getting-started)
 
 Ahora tu chatbot estará listo para funcionar. Puedes iniciar la aplicación ejecutando:
 ```bash
